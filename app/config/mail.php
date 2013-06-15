@@ -110,12 +110,12 @@ return array(
 
 	/*
 	|--------------------------------------------------------------------------
-	| Mail "Pretend"
+	| メール"Pretend"モード
 	|--------------------------------------------------------------------------
 	|
-	| When this option is enabled, e-mail will not actually be sent over the
-	| web and will instead be written to your application's logs files so
-	| you may inspect the message. This is great for local development.
+	| このオプションを有効にすると、Web上で本当に送信せず、
+	| 内容を確認するために代わりにアプリケーションの
+	| ログファイルに書き込みます。これはローカル開発で便利です。
 	|
 	*/
 
