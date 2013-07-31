@@ -4,12 +4,12 @@ return array(
 
 	/*
 	|--------------------------------------------------------------------------
-	| バリデーション言語行
+	| Validation Language Lines
 	|--------------------------------------------------------------------------
 	|
-	| 以下の言語行はバリデタークラスにより使用されるデフォルトのエラー
-	| メッセージです。サイズルールのようにいくつかのバリデーションを
-	| 持っているものもあります。メッセージはご自由に調整してください。
+	| The following language lines contain the default error messages used by
+	| the validator class. Some of these rules have multiple versions such
+	| such as the size rules. Feel free to tweak each of these messages.
 	|
 	*/
 
@@ -71,12 +71,12 @@ return array(
 
 	/*
 	|--------------------------------------------------------------------------
-	| カスタムバリデーション言語行
+	| Custom Validation Language Lines
 	|--------------------------------------------------------------------------
 	|
-	| "属性.ルール"の規約でキーを指定することでカスタムバリデーション
-	| メッセージを定義できます。指定した属性ルールに対する特定の
-	| カスタム言語行を手早く指定できます。
+	| Here you may specify custom validation messages for attributes using the
+	| convention "attribute.rule" to name the lines. This makes it quick to
+	| specify a specific custom language line for a given attribute rule.
 	|
 	*/
 
@@ -84,12 +84,12 @@ return array(
 
 	/*
 	|--------------------------------------------------------------------------
-	| カスタムバリデーション属性名
+	| Custom Validation Attributes
 	|--------------------------------------------------------------------------
 	|
-	| 以下の言語行は、例えば"email"の代わりに「メールアドレス」のように、
-	| 読み手にフレンドリーな表現でプレースホルダーを置き換えるために指定する
-	| 言語行です。これはメッセージをよりきれいに表示するために役に立ちます。
+	| The following language lines are used to swap attribute place-holders
+	| with something more reader friendly such as E-Mail Address instead
+	| of "email". This simply helps us make messages a little cleaner.
 	|
 	*/
 
